@@ -31,5 +31,16 @@
 	'frozen vegetables other than potatoes and other tubers': [],
 	'dried vegetables & other preserved or processed vegetables': [],
 	'potatoes': [],
-	'crisps': []	
+	'crisps': [],
+	'other tubers and products of tuber vegetables': [],
+	'sugar': [],
+	'jams & marmalades and honey': [],
+	'chocolate': [],
+	'confectionary products': [],
+	'edible ices and ice cream': [],
+	'sauces and condiemnts': [],
+	'ready-made meals': [],
+	'other food products n.e.c.': []
+	'coffee': []
+
 }

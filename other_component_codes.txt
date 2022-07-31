@@ -1,0 +1,14 @@
+other_component_codes = {
+	'garments for men': ,
+	'garments for women': ,
+	'garments for infants (0-2) and children (3-13)',
+	'other articles of clothing',
+	'clothing accessories': [],
+	'repair and hire of clothing': [],
+	'footwear for men': [],
+	'footwear for women': [],
+	'footwear for infants and children': [],
+	'actual rentals for housing': [],
+	'owner occupiers' housing costs': [],
+	'materials for maintenance and repair': [],
+}
