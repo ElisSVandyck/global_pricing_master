@@ -160,6 +160,7 @@ def daily_rightmove_run():
         v_filter = v.fillna('NaN')
         v_filter['search_date'] = v_filter['search_date'].dt.strftime('%Y-%m-%d %T')
         v_filter['address'] = [str(i) for i in v_filter['address']]
+        v_filter['number_of_bedrooms'] = v_filter['number_bedrooms'].astype(float, errors = 'ignore')
 
         for idx, row in v_filter.iterrows():
             query_str = f"""INSERT INTO rightmove_simple ({', '.join(list_of_columns)}) VALUES """

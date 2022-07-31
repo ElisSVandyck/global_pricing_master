@@ -1,0 +1,35 @@
+{
+	'rice': ['rice 500g', 'rice 1kg', 'rice 2kg'], 
+	'flours and other cereals': ['plain flour 1kg', 'self raising flour 1kg', 'flour 1kg'],
+	'bread': ['bread loaf', 'bread 800g', 'baguette', 'bread linseed', 'break 1kg'],
+	'other bakery products': ['bread rolls', 'croissant', 'pain au chocolat'],
+	'pizza and quiche': ['stonebaked pizza', 'pizza', 'pizza 350g', 'pizza express', 'quiche'],
+	'breakfast cereal': ['cereal 500g', 'cereal 1kg'],
+	'beef and veal': ['beef 500g', 'beef 500g', beef 1kg', 'veal 1kg', 'beef mince 500g', 'beef burgers', 'beef', 'veal'],
+	'pork': ['bacon', 'pork mince 500g'],
+	'lamb and goat': ['lamb 500g', 'lamb 1kg', 'lamb mince 500g', 'mutton 500g'],
+	'poultry': ['chicken 500g', 'chicken breast', 'chicken breast 500g', 'chicken sausage', 'turkey 500g', 'turkey mince 500g', 'goose 500g', 'duck 500g', 'pheasant 500g'],
+	'edible offal': ['offal 500g'],
+	'dried & salted meat': ['salt beef', 'beef jerky', 'smoked bacon'],
+	'other meat preparations': ['wild boar', 'bison', 'rabbit'],
+	'fresh or chilled fish': ['salmon 500g', 'cod 500g', 'salmon 250g', 'cod fillet', 'haddock fillet', 'prawns', 'mussles'],
+	'frozen seafood': ['frozen seafood', 'frozen seafood 500g', 'frozen fish', 'frozen fish 500g']
+	'other preserved or processed fish and seafood based preps': ['seafood'],
+	'whole milk': [''],
+	'milk & low fat': [''],
+	'yogurt': ['yogurt', 'yogurt 500g'],
+	'cheese and curd': ['cheese', 'cheddar 400g', 'cheddar 350g', 'brie 200g', 'camembert 250g'],
+	'other milk products': 
+	'eggs': 
+	'butter': 
+	'margarine and other vegetable fats':
+	'olive oil':
+	'fresh or chilled fruit':
+	'dried fruit and nuts':
+	'preserved fruit and fruit based products':
+	'fresh or chilled vegetables other than potatoes': [],
+	'frozen vegetables other than potatoes and other tubers': [],
+	'dried vegetables & other preserved or processed vegetables': [],
+	'potatoes': [],
+	'crisps': []	
+}
