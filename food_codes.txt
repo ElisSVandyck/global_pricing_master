@@ -1,5 +1,5 @@
 {
-	'rice': ['rice 500g', 'rice 1kg', 'rice 2kg'], 
+	'rice': ['rice 500g', 'rice 1kg', 'rice 2kg', "white rice 1kg", "brown rice 1kg"], 
 	'flours and other cereals': ['plain flour 1kg', 'self raising flour 1kg', 'flour 1kg'],
 	'bread': ['bread loaf', 'bread 800g', 'baguette', 'bread linseed', 'break 1kg'],
 	'other bakery products': ['bread rolls', 'croissant', 'pain au chocolat'],
@@ -15,32 +15,45 @@
 	'fresh or chilled fish': ['salmon 500g', 'cod 500g', 'salmon 250g', 'cod fillet', 'haddock fillet', 'prawns', 'mussles'],
 	'frozen seafood': ['frozen seafood', 'frozen seafood 500g', 'frozen fish', 'frozen fish 500g']
 	'other preserved or processed fish and seafood based preps': ['seafood'],
-	'whole milk': [''],
+	'whole milk': ['whole milk 4 pint', 'whole milk 2 pint'],
 	'milk & low fat': [''],
 	'yogurt': ['yogurt', 'yogurt 500g'],
 	'cheese and curd': ['cheese', 'cheddar 400g', 'cheddar 350g', 'brie 200g', 'camembert 250g'],
-	'other milk products': 
-	'eggs': 
-	'butter': 
-	'margarine and other vegetable fats':
-	'olive oil':
+	'other milk products': []
+	'eggs': ['eggs', 'eggs 6', 'eggs 10']
+	'butter': ['butter 500g', 'butter']
+	'margarine and other vegetable fats': ['margarine', 'margarine 500g', 'margarine 1kg']
+	'olive oil': ['']
 	'fresh or chilled fruit':
 	'dried fruit and nuts':
 	'preserved fruit and fruit based products':
-	'fresh or chilled vegetables other than potatoes': [],
-	'frozen vegetables other than potatoes and other tubers': [],
-	'dried vegetables & other preserved or processed vegetables': [],
-	'potatoes': [],
-	'crisps': [],
+	'fresh or chilled vegetables other than potatoes': ["broccoli 500g", "cauliflower 500g", "carrot 1kg"],
+	'frozen vegetables other than potatoes and other tubers': ["frozen vegetables", "frozen vegetables 1kg"],
+	'dried vegetables & other preserved or processed vegetables': ["dried vegetables"],
+	'potatoes': ["potatoes", "potatoes 5kg"],
+	'crisps': ["doritos", "crisps pack", "crisps 100g", "crisps 150g"],
 	'other tubers and products of tuber vegetables': [],
-	'sugar': [],
-	'jams & marmalades and honey': [],
-	'chocolate': [],
-	'confectionary products': [],
+	'sugar': ["sugar 1kg", "caster sugar 1kg", "granulated sugar 1kg", "brown sugar 1kg"],
+	'jams & marmalades and honey': ["jam", "strawberry jam 300g", "jam 300g", "marmalade 300g", "honey", "honey 500g"],
+	'chocolate': ["chocolate", "chocolate bar 40g", "chocolate bar 100g"],
+	'confectionary products': ["jelly babies", "sweets 100g"],
 	'edible ices and ice cream': [],
-	'sauces and condiemnts': [],
-	'ready-made meals': [],
+	'sauces and condiemnts': ["ketchup 250g", "ketchup 600g", "hp sauce 255g", "brown sauce", "hot sauce 200g", "sriracha sauce"],
+	'ready-made meals': ["microwave meals"],
 	'other food products n.e.c.': []
-	'coffee': []
-
+	'coffee': ["coffee beans 1kg", "instant coffee 500g"],
+	'tea': ["tea", "tea 240", "peppermint tea", "peppermint tea 80 bags", "tea 80 bags"],
+	'cocoa and powdered chocolate': [],
+	'mineral and spring waters': [],
+	'soft drinks': ["lemonade 2l", "coca cola 2l", ],
+	'fruit and vegetable juices': ["orange juice 1l", "apple juice 1l", "grapefruit juice 1l"],
+	'spirits': ["vodka 700ml", "gin 700ml", "whisky 750ml"],
+	'wine from grapes': ["red wine 750ml"],
+	'wine from other fruits': ["blueberry wine 750ml", "Apple wine 750ml"],
+	'fortified wines': ["campari"],
+	'lager beer': ["lager", "lager 6x330ml"],
+	'other alcoholic beer': ["ale", "ipa cans 24 pack"],
+	'cigarettes': ['cigarettes', 'cigarettes pack of 20', "carton of cigarettes"],
+	'cigars': ["cigars", "cigar 10 pack"],
+	'other tobacco products': ["ciagrette rolling papers", "cigarett filters"],
 }
